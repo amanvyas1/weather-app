@@ -1,7 +1,3 @@
-# weather-app
-
-
-
 # Weather App
 
 An app which shows the weather and Map of a searched city and on the basis of current location.
